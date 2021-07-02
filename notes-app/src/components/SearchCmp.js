@@ -1,7 +1,7 @@
 function SearchCmp() {
    return(
    <div>
-       <h4>Search Notes</h4>
+       <h4>Search Notes Below</h4>
        <input type="text"/>
    </div>
    );

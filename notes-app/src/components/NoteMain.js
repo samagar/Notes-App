@@ -1,6 +1,10 @@
+import NewNote from './NewNote/NewNote';
+
 function NoteMain() {
    return(
-       <h3>InSide NoteMain</h3>
+    <div>
+        <NewNote></NewNote>
+    </div>
    );
 }
 
